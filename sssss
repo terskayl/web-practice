@@ -1,0 +1,42 @@
+[33mcommit 326a7215d36532b51b111ab672b077d8b7a59eb0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: bce6b04 08dc40f
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 01:25:40 2023 -0400
+
+    fixed merge conflict
+
+[33mcommit 08dc40f86dec611b83feecd5299e283cbb4fd2a7[m
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 01:24:19 2023 -0400
+
+    made heading blue
+
+[33mcommit bce6b042b6fff017764bd4a0182c0eb8e8b62f75[m
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 01:21:51 2023 -0400
+
+    added exclamation point
+
+[33mcommit e0812b187732ff3082474d5f845d39a7e9115271[m
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 01:18:31 2023 -0400
+
+    Added h2
+
+[33mcommit febb5c8f9f1b0abcf63e017d525655d7ed19e900[m
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 01:16:20 2023 -0400
+
+    Added a heading
+
+[33mcommit 24931a7f77bee71573722097411b4e6287e890d2[m
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 01:12:29 2023 -0400
+
+    added hello.html
+
+[33mcommit 275adfb538941776c57c3c6647a20802048ed13c[m
+Author: terskayl <97208428+terskayl@users.noreply.github.com>
+Date:   Fri Jun 9 00:39:05 2023 -0400
+
+    Initial commit
